@@ -1,0 +1,14 @@
+{
+    "name": "henrique_junior/trabalho",
+    "description": "projeto final",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "henrique",
+            "email": "hj777457@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
